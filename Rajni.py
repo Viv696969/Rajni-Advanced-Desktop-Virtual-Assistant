@@ -336,7 +336,7 @@ apidicts={
 
 }
 
-API_KEY_chatgpt='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'
+API_KEY_chatgpt='YOUR_API_KEY'
 openai.api_key = API_KEY_chatgpt
 
 def do(txt):
